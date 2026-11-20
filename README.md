@@ -15,4 +15,4 @@ MITgcm · Git · Linux · HPC
 
 ## Contact
 
-LinkedIn | Google Scholar | Email
+LinkedIn: https://www.linkedin.com/in/juncheng-zhang-5b3921237/  | Email: juncheng.zhang@mail.utoronto.ca
